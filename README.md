@@ -66,6 +66,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/amir/amir/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/amiralimtmdi/amiralimtmdi/blob/output/snake.svg" alt="Snake animation" />
 
 ###
