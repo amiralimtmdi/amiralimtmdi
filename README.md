@@ -19,8 +19,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">social</h2>
 
 ###
