@@ -65,6 +65,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/amiralimtmdi/amiralimtmdi/blob/output/snake.svg" alt="Snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/amiralimtmdi/amiralimtmdi/main/gitartwork.svg" />
 
 ###
