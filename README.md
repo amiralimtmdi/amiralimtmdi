@@ -1,4 +1,7 @@
-<img align="center" src="https://raw.githubusercontent.com/amiralimtmdi/amiralimtmdi/main/gitartwork.svg" />
+<div style="display:flex;">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=erfanmola&show_icons=true&count_private=true&include_all_commits=true" />
+ <img align="center" src="https://raw.githubusercontent.com/erfanmola/erfanmola/main/gitartwork.svg" />
+</div>
 
 ###
 <h1 align="left">Hi dude 👋!what's up ?..</h1>
