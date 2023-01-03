@@ -27,8 +27,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&custom_title=MR.Motamedi's github state&username=amir" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&username=amir" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&custom_title=MR.Motamedi's github state&username=amiralimtmdi" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&username=amiralimtmdi" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -65,7 +65,7 @@
 </div>
 
 ###
-![Snake animation]
-<img src="https://github.com/amiralimtmdi/amiralimtmdi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/amiralimtmdi/amiralimtmdi/blob/output/snake.svg" alt="Snake animation" />
 
 ###
