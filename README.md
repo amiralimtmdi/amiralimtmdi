@@ -50,8 +50,5 @@
 
 ###
 
-<h2 align="left">stats</h2>
-
-###
 
 
