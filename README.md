@@ -1,5 +1,5 @@
 <div style="display:flex;">
- <img align="center" src="https://raw.githubusercontent.com/erfanmola/amiralimtmdi/main/gitartwork.svg" />
+ <img align="center" src="https://raw.githubusercontent.com/amiralimtmdi/amiralimtmdi/main/gitartwork.svg" />
 </div>
 
 ###
