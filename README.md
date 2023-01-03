@@ -1,3 +1,6 @@
+<img align="center" src="https://raw.githubusercontent.com/amiralimtmdi/amiralimtmdi/main/gitartwork.svg" />
+
+###
 <h1 align="left">Hi dude 👋!what's up ?..</h1>
 
 ###
@@ -65,6 +68,4 @@
 
 ###
 
-<img align="center" src="https://raw.githubusercontent.com/amiralimtmdi/amiralimtmdi/main/gitartwork.svg" />
 
-###
