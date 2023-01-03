@@ -17,7 +17,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="271" src="https://gifdb.com/images/high/8-bit-shuba-duck-dance-gl83n4o5snl4mplv.gif"  />
+  <img wigth="100%" height="271" src="https://gifdb.com/images/high/8-bit-shuba-duck-dance-gl83n4o5snl4mplv.gif"  />
 </div>
 
 ###
