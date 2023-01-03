@@ -65,7 +65,7 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/amiralimtmdi/amiralimtmdi/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation]
+<img src="https://github.com/amiralimtmdi/amiralimtmdi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
