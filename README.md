@@ -6,11 +6,11 @@
 
 ###
 
-<h3 align="left">My name is Amirali and i'm a Front-end developer from Iran</h3>
+<h3 align="left">My name is Amirali and i'm a Front-end developer</h3>
 
 ###
 
-<h4 align="left">📚 I'm currently learning  JS & react<br><br>📫 How to reach me: amiramlimotamedi2006@gmail.com<br><br>👨‍💻 All of my projects are available at amiralimotamedi.ir<br><br>📝 I regularly write articles on...<br><br>📄 Know about my experiences...<br><br>🎲 Fun fact: Do you know JS took just 10 dat to develop :)</h4>
+<h4 align="left"><br>📫 How to reach me: amiramlimotamedi2006@gmail.com<br><br>👨‍💻 All of my projects are available at amiralimotamedi.ir<br></h4>
 
 ###
 
@@ -46,6 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="80" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="80" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="80" alt="github logo"  />
+  
 </div>
 
 ###
